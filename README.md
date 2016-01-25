@@ -1,2 +1,1 @@
-# AccountingArchitecture
-This document introduces the Accounting Architecture framework.
+# ACCT 4020 GitHub Assignment
